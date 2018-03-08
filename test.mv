@@ -1,0 +1,3 @@
+<MvEVAL EXPR = "{ my_bi_function() }"> <br />
+<MvEVAL EXPR = "{ my_bi_function2( 'assigned_to_output', l.output ) }"> <br />
+<MvEVAL EXPR="{ l.output }">
